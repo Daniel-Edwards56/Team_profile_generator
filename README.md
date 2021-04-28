@@ -16,6 +16,8 @@ inquirer jest and uuid will also need to be installed for this code to work.
 
 npm start is how to invoke this code.
 
+![alt text](https://github.com/Daniel-Edwards56/Team_profile_generator/blob/main/demo.gif?raw=true)
+
 ## Questions
 
 Check us out on GitHub at Daniel-Edwards56 for any questions or you can email us at danieledwards56m@gmail.com.
