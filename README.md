@@ -20,6 +20,4 @@ npm start is how to invoke this code.
 
 ## Questions
 
-Check us out on GitHub at Daniel-Edwards56 for any questions or you can email us at danieledwards56m@gmail.com.
-
-or
+Check us out on GitHub at Daniel-Edwards56 for any questions or you can email us at danieledwards56m@gmail.com
